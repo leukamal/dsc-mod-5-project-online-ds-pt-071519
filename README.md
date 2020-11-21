@@ -1,2 +1,2 @@
 # dsc-mod-5-project-online-ds-pt-071519
-This was my first project. I am still try to figure out a good way to write the read me.
+Flight delays are most of the time very frustrating to passengers and costly to airline companies. Flight delays are not easy to understand as they arise from multiple reasons like increase in air traffic at the origin or destination airport, weather etc. The arrival delay data of a few airline carrier could be useful to understand some causes of flight delays.
